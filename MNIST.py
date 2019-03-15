@@ -4,7 +4,7 @@
 import tensorflow as tf;
 from tensorflow.examples.tutorials.mnist import input_data;
 
-# MNIST数据集相关的常熟
+# MNIST数据集相关的常数
 INPUT_NODE = 784        # 输入层节点数，总像素数
 OUTPUT_NODE = 10        # 输出层节点数，总类别数
 
